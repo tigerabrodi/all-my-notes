@@ -8,8 +8,4 @@
 
 - Material UI
 
-- Testing library
-
-- Cypress
-
 - Solid.js
