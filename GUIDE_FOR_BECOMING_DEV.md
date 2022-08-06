@@ -14,6 +14,18 @@ _The number in the end is the total months calculated for that phase._
 
 _If You manage to learn or accomplish things quicker then they are structured and feel confident to move onto the next phase, feel free to do so! Also, know that this isn't the only path, feel free to tweak this path to fit into your life and whatever goals or deadlines you have set for yourself!_
 
+_This is the guide I wish I had read before starting to code. Specifically before the time I decided to take coding seriously in fact, since this is gonna require discipline and work ethic, it is a commitment._
+
+Some stuff you will learn:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & Github
+- TypeScript
+- Accessibility
+
 # Tooling & environment (0.5 months) 0.5
 
 We're gonna start off by learning the tooling and environment you will work with and in as a developer.
@@ -32,7 +44,23 @@ Resources to learn both Git and Github: [Git & GitHub Tutorial for Beginners](ht
 
 ## Practice on text files (.txt)
 
+Now that you have VS Code and also know some Git & Github, you're gonna put that into practice. Start off by editing text files in VS Code, committing and eventually pushing them up to Github. The goal isn't to write any code yet, the goal here is to get you familiar with the coding tools first, so you don't get overwhelmed trying to learn both coding and the tools at the same time.
+
+## Important note
+
+When you're building projects over the next phases, make sure to always create a Github repository and commit your stuff, even from the very beginning!
+
+A resource on writing good commits: [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/).
+
 # Basic HTML & CSS (1 month) 1.5
+
+Learn the basics of HTML and CSS. You should do a few tutorials, try to timebox all of them for maximum two weeks, then spend two weeks building stuff. It is important that you spend more time building stuff during each phase of this guidance than doing tutorials. You need some knowledge to get going, but cheerish the struggle, it is when you actually learn and grow, struggling means you're on the right path!
+
+I'd recommend starting off by learning HTML first separately, then you can learn CSS. Learning both at the same time can be difficult.
+
+Resources to learn HTML: [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU), [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) and [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg).
+
+Resources to learn HTML and CSS: [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w), [CSS Tutorial - Zero to Hero (Complete Course)](https://www.youtube.com/watch?v=1Rs2ND1ryYc), [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4) and [HTML & CSS Project Tutorial - Build a Recipes Website](https://www.youtube.com/watch?v=-8LTPIJBGwQ).
 
 # Intermediate/Advanced HTML & CSS (2 months) 3.5
 
