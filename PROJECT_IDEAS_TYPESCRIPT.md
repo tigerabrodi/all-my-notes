@@ -1,8 +1,12 @@
 - replicate the tweet UI.
 
+- small photo editing tool
+
 - Ecommerce app with commercejs
 
-- Landing page with my top 5 naruto characters and their lessons
+- Landing page with my top 3 naruto characters and their lessons
+
+- a site with my top 10 naruto sound tracks
 
 - mini miro/excalidraw thing with liveblocks and solid.js
 
