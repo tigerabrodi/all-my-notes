@@ -12,9 +12,9 @@ Now, in this article, I won't cover stuff like writing your resume, what should 
 
 I'll go through everything order by order, we'll learn numerous stuff, the main goal is for you within 12 months to become a paid frontend developer! This is the GUIDE I would've given my younger self!
 
-_The number in the end is the total months calculated for that phase._
+_The number, in the end, is the total months calculated for that phase._
 
-_If You manage to learn or accomplish things quicker then they are structured and feel confident to move on to the next phase, feel free to do so! Also, know that this isn't the only path, feel free to tweak this path to fit into your life and whatever goals or deadlines you have set for yourself!_
+_If You manage to learn or accomplish things quicker than they are structured and feel confident to move on to the next phase, feel free to do so! Also, know that this isn't the only path, feel free to tweak this path to fit into your life and whatever goals or deadlines you have set for yourself!_
 
 _This is the guide I wish I had read before starting to code. Specifically, before the time I decided to take coding seriously in fact, since this is gonna require discipline and work ethic, it is a commitment._
 
@@ -30,7 +30,7 @@ Some stuff you will learn:
 
 ## Tooling & environment (0.5 months) 0.5
 
-We're gonna start off by learning the tooling and environment you will work with and in as a developer.
+We're gonna start by learning the tooling and environment you will work with and in as a developer.
 
 ### VS Code
 
@@ -66,15 +66,27 @@ Resources to learn HTML and CSS: [HTML and CSS for Beginners, complete playlist!
 
 ## Intermediate/Advanced HTML & CSS (2 months) 3.5
 
-After you've built your first basic websites, it is time to move on to building more intermediate stuff. This includes for example Responsive Websites (mobile & desktop friendly), Flexbox, Grid, Positioning Transitions, Animations, Advanced Selectors, Units and more!
+After you've built your first basic websites, it is time to move on to building more intermediate stuff. This includes for example Responsive Websites (mobile & desktop friendly), Flexbox, Grid, Positioning, Transitions, Animations, Advanced Selectors, Units and more!
 
-I'm gonna recommend resources that are both free and paid. In your position, I would've started with some of the free ones, build stuff for a while, then do the paid resources. My favorite CSS course is the first one: **CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)**.
+I'm gonna recommend resources that are both free and paid. In your position, I would've started with some of the free ones, build stuff for a while, then do the paid resources. My favorite CSS course is the first paid one: **CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)**.
+
+Make sure that you're spending more time building stuff than doing tutorials! It is fine if you do for example one tutorial, and then spend the rest of the time building, and challenging yourself to build more complex & comprehensive websites.
+
+Be aware not to fall into the trap of trying to get things too perfect and losing a bunch of time. Done is better than perfect.
+
+I'd strongly advise you to check out the Youtube of Kevin Powell as well, he explains numerous CSS concepts amazingly: [Playlists by Kevin Powell](https://www.youtube.com/kepowob/playlists?view=1&sort=dd&shelf_id=0)
 
 Paid resources: [CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/), [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) and [CSS Demystified](https://cssdemystified.com/).
 
 Free resources: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), [Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css), [Build a responsive website with HTML & CSS](https://www.youtube.com/playlist?list=PL4-IK0AVhVjNDRHoXGort7sDWcna8cGPA), [Responsive CSS tutorials](https://www.youtube.com/playlist?list=PL4-IK0AVhVjODqX-gN6KH68Tt_zrYiTwA) and [CSS Transitions](https://www.youtube.com/playlist?list=PL4-IK0AVhVjNKdH-sQgq_z8gfqC6pRC9V).
 
 ## Basic JavaScript (0.5 months) 4
+
+Now it is time to learn some basic javascript for the first two weeks. The goal is to do a basic tutorial and then play around with JavaScript a bit.
+
+Resources: [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk), [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) and [An Introduction to JavaScript - Course for Beginners](https://www.youtube.com/watch?v=aPvHcc0ysm0).
+
+You don't have to go with these resources, by the way, feel free to go with others, it is your choice.
 
 ## JavaScript & DOM (1.5 months) 5.5
 
