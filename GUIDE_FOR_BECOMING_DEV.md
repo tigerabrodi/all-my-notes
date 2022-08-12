@@ -90,6 +90,16 @@ You don't have to go with these resources, by the way, feel free to go with othe
 
 ## JavaScript & DOM (1.5 months) 5.5
 
+Continue learning JavaScript, specifically how to update the different elements on the page (the DOM) using JavaScript as well as creating cool effects. Make sure to not forget to step outside your comfort zone and struggle, struggling is where you learn.
+
+The nice thing here is that you can either start with a tutorial if you wish, but you can also just start by building something small and add JavaScript bit by bit. The goal isn't to build something perfect, the project should be able to do something, the focus here is to learn.
+
+Resources: [JavaScript DOM Manipulation – Full Course for Beginners](https://www.youtube.com/watch?v=5fb2aPlgoys), [JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc) and [JavaScript DOM Tutorial](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V).
+
+By the way, don't think that the resources I share are the only resources or the best ones, I share a few in case you need to get started somewhere and don't know where. Feel free to look for other ones that you find more interesting or practical.
+
+I also strongly recommend this site: https://javascript.info/. The section about **Browser: Document, Events, Interfaces** is extremely good!
+
 ## Intermediate/Advanced JavaScript (2 months) 7.5
 
 ## TypeScript (0.5 months) 8
