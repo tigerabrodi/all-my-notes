@@ -1,7 +1,5 @@
 - Landing page with my top 3 naruto characters and their lessons.
 
-- Implement the youtube home screen, hovering over the videos should allow you to see the videos.
-
 - A site with my top 10 naruto soundtracks, this can be done by copying the spotify UI. We should also make sure it is responsive for mobile.
 
 ---
@@ -33,6 +31,8 @@
 ---
 
 ---
+
+- play around with some app that allows you to use your webcam, make photos and record videos.
 
 ---
 
