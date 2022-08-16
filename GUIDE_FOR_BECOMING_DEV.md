@@ -102,6 +102,26 @@ I also strongly recommend this site: https://javascript.info/. The section about
 
 ## Intermediate/Advanced JavaScript (2 months) 7.5
 
+Learning intermediate to advanced JavaScript is quite broad. On one hand, we've building quite complicated projects like a memory game, calculator, typing game, working with APIs and taking such projects quite far with the usage of localStorage for example etc. On the other hand, we've understanding how JavaScript works, Promises, writing async code, the Event Loop, and so on.
+
+Often both parts are related to each other, for example, if you're dealing with something that has to fetch data from an API, you're gonna be dealing with Promises and writing async code, but many people end up building intermediate projects without really understanding some of the concepts thoroughly.
+
+1. In this case, I think the best thing is to start by learning a bit about the deeper topics, like Promises, different types of requests (POST, GET, PUT, PATCH), Async/Await, Event Loop, and so on. Not for too long though, I'd timebox it to a maximum of a week of theory, then try building a more intermediate JavaScript project.
+
+2. Another approach that may be more fun since it is more practical, and in some cases could be better for a lot of people is to just start by having a project in mind that you want to build and figure things out along the way, and as you encounter things you don't quite understand, then you do read up on them and dig deep into how they work.
+
+Ideas for projects you could build: memory game, Netflix Landing page that displays movies and allows you to search for movies using an API (only movie information), a calculator, a small eCommerce using either a headless CMS or hardcoded data (feel free to go how far you wish), typing game and a whiteboard where you draw, create cards and that kind of stuff using canvas.
+
+Take into account these projects don't have to be perfect or crazy big, it is fine if you're building something small, you can always make it bigger if you wish, but if you wish to move on that's also fine, what is important is that you're learning in each project! Don't forget to consistently struggle, that is when you learn.
+
+Resources to learn about intermediate/advanced concepts for free: [A walkthrough with JavaScript’s Fetch API.](https://medium.com/@9cv9official/what-are-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-17be31755d28), [HTTP Request Methods](https://www.freecodecamp.org/news/http-request-methods-explained/), [What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ), [In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0), [Async Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=_8gHHBlbziw), [Build 15 JavaScript Projects](https://www.youtube.com/watch?v=3PHXvlpOkf4) and [Advanced JavaScript Crash Course](https://www.youtube.com/watch?v=R9I85RhI7Cg).
+
+Paid resources: [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/), [JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/) and [JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/).
+
+If you've any questions or don't fully grasp something, don't forget to google them, research, and read what you find.
+
+The more you ask, the more you learn!
+
 ## TypeScript (0.5 months) 8
 
 ## Portfolio and Resume (1 month) 9
