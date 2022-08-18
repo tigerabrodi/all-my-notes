@@ -32,6 +32,8 @@ Last but not least, don't give up, your future self will thank you, very soon.
 
 # 12-month guide
 
+I recommend reading the guide once completely, then afterward you can go through each phase and use the guide as a reference.
+
 ## Tooling & environment (0.5 months) 0.5
 
 We're gonna start by learning the tooling and environment you will work with and in as a developer.
@@ -159,13 +161,49 @@ Paid Resources that I strongly recommend you to do, at least 1 or 2: [Inclusive 
 
 ## React (2 months) 10.5
 
+Now it is time for the big league, to learn the UI library React. Most companies use a UI library or a framework when developing their products.
+
+There are numerous reasons for going with technology over pure JavaScript. I would say the biggest reasons are for the product to scale and continue being performant as it grows.
+
 ### Learning React
 
-### Basics
+When learning React we are of course gonna start with the basics. I want to clarify though, that the basics don't just mean building small and simple applications, but it also means understanding how React works and what it does.
 
-### Practical Tutorials
+I think it is something that is often overlooked and makes React harder to learn because people make up their mental model instead of learning what React is, what it does, why it does what it does, and how it works.
 
-### Advanced Concepts
+By this, I don't mean understanding all the complexity of React's codebase, don't get me wrong, but you should have an understanding from a higher level perspective of how it works under the hood.
+
+### Start
+
+You're gonna have to start off by installing [Node](https://nodejs.org/en/download/) (a JavaScript runtime).
+
+From there go through the Beta documentation of React from beginning to end, starting with the installation section: [Learn React](https://beta.reactjs.org/learn/installation).
+
+Once you've gone through their tutorial, feel free to go ahead and start building stuff.
+
+If you want to do another tutorial, I strongly advise you to do: [Kent C. Dodds's Beginners Guide to React from egghead.io](https://www.youtube.com/watch?v=7_x4AuqHxlg), you can even pick this over the Beta documentation, especially if you aren't much of a reader, though, I'd recommend going through both
+
+[Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) is good for building stuff when learning React, as getting started isn't too hard. Though it is slower and heavier than other options out there, if you want something more lightweight, feel free to have a look into [Vite](https://vitejs.dev/guide/). Their documentation should guide you in setting it up with React.
+
+### Talks
+
+Talks to watch after you've built your first 3 to 5 React projects minimum: [React and the Virtual DOM](https://www.youtube.com/watch?v=BYbgopx44vo), [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U), [Getting Closure on React Hooks by Shawn Wang](https://www.youtube.com/watch?v=KJP1E-Y-xyo), [React Hooks Closure Problems](https://www.youtube.com/watch?v=eTDnfS2_WE4), [Custom Hooks in React: The Ultimate UI Abstraction Layer](https://www.youtube.com/watch?v=J-g9ZJha8FE) and [React Hook Pitfalls](https://www.youtube.com/watch?v=VIRcX2X7EUk).
+
+### Projects
+
+Your projects, remember, can start small, you don't have to start building anything crazy, it can be little as an interactive landing page, the most important thing is to get started and slowly but surely build bigger and more complex projects.
+
+Note: feel free to use TypeScript when building your projects. If you want to start by using vanilla JavaScript and not have to think about TypeScript when learning React, that is also totally fine.
+
+If it helps, you may want to start by building fewer smaller projects, before proceeding to bigger ones.
+
+Don't forget, if you're struggling, it means you're on the right path.
+
+I timeboxed learning React for two months, if you need more time, take it, this guide is meant for you to tweak it to your own life and needs.
+
+### Deployment
+
+I recommend deploying your React apps on [Vercel](https://vercel.com/). It is easy and fast to use, and all you need is to import your Github repo into Vercel and with a few clicks, your site will be live.
 
 ## Resume & Github (0.25 months) 10.75
 
