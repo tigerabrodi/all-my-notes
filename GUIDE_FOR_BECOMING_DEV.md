@@ -6,9 +6,7 @@ Now, you may wonder if it is possible, to become a software developer within 12 
 
 I will say it is gonna require discipline and you put in the work. Don't give up, believe in yourself, and know nothing good comes out of quitting.
 
-I will go through some weeks and some months, this article is aimed to be a guide, and not a detailed structure giving you the exact courses, books or workshops to go through. From my experience both learning to code and helping people around me, people often need guidance, and then the rest they can often figure out themselves by i.e. using google and doing research (there are lots of resources out there, both free and paid, to learn almost any technology or tool in tech).
-
-Now, in this article, I won't cover stuff like writing your resume, what should be on your portfolio, or how to act in interviews, rather again as mentioned, this is guidance, though, if I know a resource that I trust from experience, I'll share it, like specific workshops over at Frontend Masters.
+I will go through some weeks and some months, this article is aimed to be a guide, and not an extremely detailed structure giving you the exact courses, books or workshops to go through. From my experience both learning to code and helping people around me, people often need guidance, and then the rest they can often figure out themselves by i.e. using google and doing research (there are lots of resources out there, both free and paid, to learn almost any technology or tool in tech).
 
 I'll go through everything order by order, we'll learn numerous stuff, the main goal is for you within 12 months to become a paid frontend developer! This is the GUIDE I would've given my younger self!
 
@@ -18,15 +16,21 @@ _If You manage to learn or accomplish things quicker than they are structured an
 
 _This is the guide I wish I had read before starting to code. Specifically, before the time I decided to take coding seriously in fact, since this is gonna require discipline and work ethic, it is a commitment._
 
-Some stuff you will learn:
+# Becoming a developer
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Git & Github
-- TypeScript
-- Accessibility
+Becoming a developer requires you to shift your mindset. A lot of the times when learning to code, we've the belief as beginners that you go through a course and then that is enough for you to go on yourself and start coding up stuff with ease, and it is sad to see because this often leads to beginners thinking that they are doing something wrong or not good enough to code.
+
+I want to emphasize, that being a developer is a **lifelong** journey of learning. You will constantly struggle, constantly fix bugs, and constantly look at code and be like \**Why is this not working?*As a developer, you want to look at things from a logical perspective, and then figure out how to accomplish these things.
+
+Rule number one if you don't know something: **GOOGLE IT & FIGURE IT OUT**.
+
+It is completely fine to not know things, and not everyone knows everything. It's about learning and figuring out the stuff that you need for your use case.
+
+Struggling means that you're on the right path, it means you're growing and learning, you're outside of your comfort zone, be happy if you're struggling, not anxious or worried.
+
+Last but not least, don't give up, your future self will thank you, very soon.
+
+# 12-month guide
 
 ## Tooling & environment (0.5 months) 0.5
 
@@ -124,16 +128,47 @@ The more you ask, the more you learn!
 
 ## TypeScript (0.5 months) 8
 
-## Portfolio and Resume (1 month) 9
+TypeScript is a superset of JavaScript. You could describe it as JavaScript with a typing system. The adoption and usage of TypeScript are huge and still increasing immensely.
 
-## Job hunting habit
+Many decide to learn TypeScript after having learned React (UI Library). They would then usually learn React using JavaScript, and not TypeScript, and eventually have to learn React + TypeScript together, which I think can be quite overwhelming.
+In these 2 weeks, you're gonna learn the basics of TypeScript, feel free to dig deeper if you wish and there is still time.
 
-## Basic React (0.5 months) 9.5
+Reasons why people are using TypeScript:
 
-## React (1.5 months) 11
+- Avoid minor bugs.
+- Autocompletion in the code editor.
+- Quicker understand the code you're working with.
 
-## Last month 12
+TypeScript at first seems like it makes you go slower, but you will eventually see that it helps you go faster, not slower.
 
-Testing basics, and add some testing to existing React projects.
+Resources to learn TypeScript: [TypeScript Website](https://www.typescriptlang.org/), [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM), [TypeScript Course for Beginners - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) and [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs).
 
-Once done if time is enough, build a fullstack project using React, TypeScript, Firebase, a styling or component library (Material UI, Tailwind, Chakra UI, )
+## Accessibility (0.5 months) 8.5
+
+We haven't covered Accessibility yet, because I've found bringing up accessibility for beginners too early can be confusing sometimes, and even overwhelming. Though, Accessibility is a very important topic in web development, and often a topic that is overlooked. Good news for you here, learning accessibility can be one of those things that make you stand out among other developers.
+
+In short: Accessibility is designing and developing websites in a way that is usable and accessible by everyone, even disabled people who are using assistive technologies or devices to navigate the web.
+
+Start with the three introductory steps:
+
+1. [Introduction to Accessibility](https://tigerabrodi.hashnode.dev/introduction-to-accessibility)
+2. [Getting started with web Accessibility](https://www.youtube.com/watch?v=qr0ujkLLgmE)
+3. [Common Accessibility Errors](https://tigerabrodi.hashnode.dev/common-accessibility-errors)
+
+Paid Resources that I strongly recommend you to do, at least 1 or 2: [Inclusive Design Patterns](https://www.goodreads.com/book/show/30816008-inclusive-design-patterns---coding-accessibility-into-web-design), [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/) and [A Web for Everyone](https://www.goodreads.com/book/show/20640233-a-web-for-everyone).
+
+## React (2 months) 10.5
+
+### Learning React
+
+### Basics
+
+### Practical Tutorials
+
+### Advanced Concepts
+
+## Resume & Github (0.25 months) 10.75
+
+## Job hunting & interviewing
+
+## React & other ideas (1.25 months)
