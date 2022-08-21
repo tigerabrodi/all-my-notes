@@ -175,7 +175,7 @@ By this, I don't mean understanding all the complexity of React's codebase, don'
 
 ### Start
 
-You're gonna have to start off by installing [Node](https://nodejs.org/en/download/) (a JavaScript runtime).
+You're gonna have to start by installing [Node](https://nodejs.org/en/download/) (a JavaScript runtime).
 
 From there go through the Beta documentation of React from beginning to end, starting with the installation section: [Learn React](https://beta.reactjs.org/learn/installation).
 
@@ -205,8 +205,104 @@ I timeboxed learning React for two months, if you need more time, take it, this 
 
 I recommend deploying your React apps on [Vercel](https://vercel.com/). It is easy and fast to use, and all you need is to import your Github repo into Vercel and with a few clicks, your site will be live.
 
-## Resume & Github (0.25 months) 10.75
+## Resume, LinkedIn, Github & Personal Portfolio (0.25 months) 10.75
+
+Now, it is time to write your Resume/CV and make sure you have a nice Github profile. I expect those two not to take longer than a day, as for the Personal Portfolio, I'd suggest you timeboxing it to a week maximum and try to develop a personal portfolio that aligns with your personality and showcases your projects.
+
+### Resume/CV
+
+I recommend writing your Resume on [Flow CV](https://flowcv.com/). A lot of people make writing a resume too complicated (even I have). Just keep it simple and clean. Include the amount of information necessary, and try to make the Resume easy to scan.
+
+I recommend having these four sections: Profile, Skills, Projects & Hobbies.
+
+Having hobbies in the end also displays your personality and humanity a bit.
+
+If you need inspiration, I recommend Googling "Software engineering resumes" on Google and having a look at the images that pop up.
+
+A few rules should be aware of:
+
+- Don't make your Resume longer than a single page. This makes it hard for recruiters to scan it, and they might end up not reading it all.
+
+- Make sure to keep space in your Resume, and make it feel easy to read, and not cluttered.
+
+- Don't include metrics of your skills, i.e. "X stars of JavaScript knowledge". That's subjective, and what people will care about in your interviews, isn't the metrics you've defined yourself, but rather the projects you've built and the challenges you encountered when building them.
+
+I made a simple template in case you want help with the structure of your Resume.
+
+The template above is super simple, be more creative and make it look nice!
+
+PS. Feel free to include an educational section, in case that is relevant to you. I was a high school dropout when I was looking for my first job, hence didn't include the **Education** section.
+
+By the way, for literally everything on this guide, there is a Youtube video for. If you ever want more knowledge, just go to Youtube or Google.
+
+### Github profile
+
+Make sure to flesh out your Github profile. Pin the top projects of yours and make sure to write a nice [Readme](https://www.youtube.com/watch?v=KhGWbt1dAKQ).
+
+### LinkedIn
+
+Setup a [LinkedIn](https://www.linkedin.com/), it is an awesome place to connect with other developers who are aspiring or already are developers. It is also a great place to connect with recruiters and apply to companies.
+
+[Tips for setting up LinkedIn](https://www.youtube.com/results?search_query=setting+up+linkedin).
+
+### Portfolio
+
+Don't overcomplicate your portfolio, this is something you can do after you've landed your first job as a developer, spending a bunch of time trying to make the portfolio "perfect".
+
+Don't forget, the focus here is to get you your first job as a developer.
+
+If you don't want to take the time to develop a Portfolio, feel free to jump right into job hunting, though, know that with a Portfolio, you can potentially stand out better among those who don't have a Portfolio.
+
+[10 Web Developer Portfolio Tips](https://www.youtube.com/watch?v=nrWGr2OvBD4).
+
+I recommend including these sections for your Portfolio (in order): Landing page, About, Projects & Contact.
+
+Feel free to exclude About or Contact if you wish. You could tell a bit about yourself on the landing page, and then what is MOST important is showcasing your projects. If you take a look at [my portfolio](https://www.tigerabrodi.tech/), I'm showcasing my projects with a video that auto-plays, this way recruiters don't have to try out the project themselves to see what it is about.
+
+[30 Web Developer Portfolios to Inspire You](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw).
 
 ## Job hunting & interviewing
 
+### Interviewing
+
+There is A LOT of advice out there, on how to act or be in software engineering interviews.
+Here is my fundamental advice to you:
+
+The first point: Be curious, and ask questions about the company.
+
+- How can you grow in the company?
+- Where does the company see itself in 3 to 5 years?
+- How many projects & teams are there in the company?
+- How does the onboarding process look for new developers?
+
+By asking questions, you're showing the company that you care about the position you're joining, and where you will be kickstarting your career.
+
+The second point: Don't feel nervous. See every interview as a practice, and know that you will likely be rejected NUMEROUS times before landing your first job. You will get better as time pass. I was rejected for 3 to 4 months, and I would apply to 5 jobs every morning and attend countless interviews.
+
+The third point: After each interview, take notes and assess yourself on how it went. If there are gaps in your knowledge, which you realized during and after the interview, make sure to spend time filling those gaps, and improving yourself for the next interviews.
+
+The fourth point: Only take home assignments if you want. Don't force yourself to do a home assignment for a company that doesn't interest you (you will apply to companies that don't interest you because you're hungry for your first job as a developer).
+
+These are my advice when it comes to interviewing, the key is to improve after every SINGLE interview.
+
+### Job hunting
+
+When it comes to job hunting, form a habit. My advice is to apply to at least 5 jobs every morning, ideally 10. If you apply to 10 jobs every morning, that is over a month, 300 jobs! And for two months that'd be 600 jobs.
+
+Be patient, don't give up, quitting is for losers, you're about to transform your life, keep grinding.
+
+Patience is bitter, but its fruit is sweeter than honey.
+
 ## React & other ideas (1.25 months)
+
+During the time you're job hunting, I'd advise you to improve in whatever areas you think you're weak, but also continue building React projects.
+
+Some ideas you could do to take yourself to the next level:
+
+- Build a full-stack app using React and Firebase (a backend service, makes building full-stack projects simple). If you're looking for a place to get started, there are tutorials on Youtube for building with React and Firebase.
+
+- You could learn to test, and add tests to your existing projects. This would include learning Jest, Mock Service Worker (if you have to mock away the fetching in your tests) and Testing Library, and writing some integration tests. I recommend starting very small. You don't have to add tests for the whole project, it can be a little bit as a few components.
+
+Some testing resources: [React Testing Library Tutorial](https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ), [React Testing Crash Course](https://www.youtube.com/watch?v=OVNjsIto9xM) & [React Testing Tutorial with React Testing Library and Jest](https://www.youtube.com/watch?v=Flo268xRpV0).
+
+The best testing resource at the moment, but it is quite expensive, I've done it myself twice and loved it, it is phenomenal if you can get it, surely will make your skills STAND OUT immensely as someone trying to land their first job as a developer: [Testing JavaScript](https://testingjavascript.com/).
