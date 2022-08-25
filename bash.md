@@ -39,3 +39,19 @@ Bash startup files are used to provide default settings for the operating system
 ## Alternative shells
 
 There are other shells out there, but bash remains the default, and is easy to run even if you're in a different shell.
+
+## Exit codes
+
+After execution, a command generates an exit code. With `echo $?` the last exit code can be requested. 0 means successful, 1 means generic error and anything else means there was an issue running the command. You can generate an exit code in your script by doing `exit n`.
+
+# Shell scripts in a DevOps Environment
+
+## What is a shell script?
+
+A computer program designed to run in a shell, can be written in different scripting languages. They are easy to develop and a part of the default working environment.
+
+## What is DevOps?
+
+A set of practices that combines software development with IT operations to shorten the development lifecycle.
+
+# Linux Essentials
