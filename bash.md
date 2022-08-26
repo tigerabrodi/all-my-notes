@@ -54,4 +54,6 @@ A computer program designed to run in a shell, can be written in different scrip
 
 A set of practices that combines software development with IT operations to shorten the development lifecycle.
 
-# Linux Essentials
+# Writing scripts
+
+First make your script executable by running `chmod +x {script-file-name}`. Then you can run your script by pointing to the file name `./{filename}`, you can also call bash before it if you want.
