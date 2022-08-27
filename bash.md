@@ -57,3 +57,7 @@ A set of practices that combines software development with IT operations to shor
 # Writing scripts
 
 First make your script executable by running `chmod +x {script-file-name}`. Then you can run your script by pointing to the file name `./{filename}`, you can also call bash before it if you want.
+
+`set` shows all current variables. `compgen -v` will show variables only and not their values.
+
+Put `#!/bin/bash` on top of your script to enable syntax highlighting. I think it'd also be enabled inside VS Code if you've a bash file .sh.
