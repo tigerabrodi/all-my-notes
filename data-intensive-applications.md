@@ -30,3 +30,21 @@ In an early-stage startup or an unproven product, it’s usually more important 
 ## Maintainability
 
 Most of the time, initially the cost of writing the code is low, compared to later. As more code gets added, complexity increases. This makes the system harder to change or add new things too, or at least the cost becomes higher than initially.
+
+# Chapter 2
+
+## Relational Model Versus Document Model
+
+In the last 30 years, SQL has dominated, relational databases.
+
+### Birth of noSQL
+
+NoSQL started in the 2010s, which is just a term for distributed, nonrelational databases.
+
+Reasons to adopt NoSQL:
+
+- A need for greater scalability than SQL can achieve.
+- Specialized query operations that don't work well with SQL.
+- Frustration with the restrictiveness of relational schemas.
+
+### The Object-Relational Mismatch
