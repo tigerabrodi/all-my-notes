@@ -9,3 +9,7 @@
 - Material UI
 
 - Solid.js
+
+- firebase
+
+- cypress
