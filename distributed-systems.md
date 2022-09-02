@@ -1,10 +1,14 @@
 # Read Replication
 
-Read replication is a solution for distributed systems that are read-heavy, but don't write a lot of data. We'd have a leader node, and then follower nodes. The goal is to **remember** a specific value that has been sent by the client and written by the leader node.
+Read replication is a solution for distributed systems that are read-heavy, but don't write a lot of data.
 
-This means everytime someone wants to read a specific data, they can get it right away, the **cached** version of it, from one of the follower nodes. If they write new data, that will take some time to get updated for the follower nodes, leading to a consistency problem.
+We would have a leader database, and then follower databases. The goal is to remember a specific value that has been sent by the client and written by the leader database.
 
-This solution was invented early in web history, since web architects discovered that there were lots more reads than writes to web traffic.
+This means every time someone wants to read specific data, they can get it right away, the cached version of it, from one of the follower databases.
+
+If they write new data, that will take some time to get updated for the follower database, leading to a consistency problem. This means that the user could likely end up getting the stale value. Also, take into account, that the follower databases don't get updated at the same time, hence there will be some time during the update when they aren't the same.
+
+This solution was invented early in web history since web architects discovered that there were lots more reads than writes to web traffic.
 
 # Sharding
 
