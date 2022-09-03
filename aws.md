@@ -24,3 +24,23 @@ AWS accounts have one root user. They have a unique email for only that specific
 Each resource in AWS has a globally unique identifier called Amazon Resource Name (ARN). ARN model: `arn:partition:service:region:account-id:resource-id`.
 
 ## Lesson 2
+
+AWS Data center has 10s of thousands of servers. They offer no services, this is managed by AWS.
+
+Availability zone represents one or more data centers that are colocated together.
+
+There is a logical name for the availability zone, and then there is the actual physical name. You have control to choose the logical name, but not the physical one.
+
+An AWS Region is shown as multiple physically separate Availability Zones.
+
+Edge locations are often used for caching. AWS has over 275+ edge locations, which is over 10 times more than AWS regions. It has much better distribution than regions.
+
+# Lesson 3
+
+Root user email address is used as username. Generic login URL. It has access to the entire AWS ecosystem and unique tasks. Root account properties can only be changed by the root user. If you close the account, the email cannot ever be used again.
+
+IAM user represents a principal identity. Associated with permissions, group, inline and managed and a permission boundary. Container for credentials.
+
+IAM Group is a collection of IAM users, associated with permissions, cannot be nested inside each other.
+
+# Lesson 4
