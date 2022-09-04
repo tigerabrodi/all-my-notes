@@ -1,21 +1,9 @@
-# First week
+- Start learning canvas and build a brainstorming app. Maybe make it a multiplayer app using Liveblocks if I feel motivated enough. The deadline is the next two weeks, though, if I feel motivated to continue on it, I'm allowed another week.
 
-- Deadline for the Netflix clone.
+- Start with https://cloudresumechallenge.dev/ (AWS version) and make sure to finish it within the next two weeks. Spend 3 hours on it every day, if there is a risk that it may not get done, spend 6 hours instead of 3 during the last 4 days of the 2 weeks.
 
-- Make sure to learn AWS 1h every morning, ideally another hour during the day, take a timer and do focused work.
+- Once https://cloudresumechallenge.dev/ is done, start going through the book **Terraform: Up and Running, 3rd Edition** and try to finish it before October begins.
 
-# Second Week
+- Once the brainstorming app is done, design and build a new portfolio.
 
-- Thursday is the latest day for starting with the Terraform book, which I should continue on for 1 - 2 weeks.
-
-- Start a project in Canvas, try to build something similar to Excalidraw/Miro.
-
-- Finish Blog post "6 months at Bobsled" and publish it.
-
-# Future
-
-- The goal is before October starts to start designing and developing my new portfolio.
-
-- After that, the goal will be to step away from TypeScript for quite some time.
-
-I still have a few things I want to develop, like that typing game for toddlers for example.
+- Once the Portfolio is done, continue building projects.
