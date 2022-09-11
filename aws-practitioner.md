@@ -254,3 +254,14 @@ The consolidated billing feature of AWS Organizations enables you to receive a s
 In AWS Budgets, you can create budgets to plan your service usage, service costs, and instance reservations.
 
 ## AWS Cost Explorer
+
+AWS Cost Explorer is a tool that enables you to visualize, understand, and manage your AWS costs and usage over time.
+
+## AWS Support plans
+
+AWS offers four different Support plans to help you troubleshoot issues, lower costs, and efficiently use AWS services.
+
+- Basic
+- Developer
+- Business
+- Enterprise
