@@ -14,6 +14,14 @@ I won't lie, it is motivating.
 
 To explain it in short, the book contains Chunks you should go through, which is basically all a part of building a fullstack project. You could describe each Chunk as a mini project in itself, but if you do finish all the Chunks, you will have a very comprehensive project to showcase in the end, and will have learned a lot of course.
 
+# My Plan
+
+I plan on trying to go through this resource quite quickly, and afterward build a fullstack side project myself with Remix and AWS services.
+
+I've always been a fan of trying to take the learnings from a resource, and then applying those to a whole new separate side project.
+
+It is gonna be fun!
+
 # Setting up AWS
 
 Before beginning anything, you will have to set up AWS. The book recommends a different approach, though, the approach I took I found easiest and quite straight-forward. Also, to mention, I'm using **IAM Identity Center** which is brand new, it was released like last month roughly as I'm writing this.
@@ -24,11 +32,13 @@ Before beginning anything, you will have to set up AWS. The book recommends a di
 
 3. Set up AWS Control Tower. If you need emails for new accounts, you can you the email subaddressing trick. This way you can use a different email, but the destination of mails is still your main account. It is also called the plus sign trick. For example, if John needs to create an account for auditing: **john+audit@gmail.com**. Even though this is a different email, the mails will be sent to **john@gmail.com**.
 
-4. Use AWS SSO to sign-in into different accounts whenever you wish. You will get an invitation in your email.
+4. Activate IAM user and role access: https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/control-access-billing.html#billing-activate-iam-access.
 
-5. Create a **testing** and a **production** organizational unit (OU) in your organization using the Control Tower, you can put them at the root level.
+5. Use AWS SSO to sign-in into different accounts whenever you wish. You will get an invitation in your email.
 
-6. Create an account in both OUs, one will be used for testing/development, and one will be used for the production, meaning the live environment of the project which is public for anyone to visit on a specific domain. Here again, for the emails of the accounts, you can use the subaddressing trick.
+6. Create a **testing** and a **production** organizational unit (OU) in your organization using the Control Tower, you can put them at the root level.
+
+7. Create an account in both OUs, one will be used for testing/development, and one will be used for the production, meaning the live environment of the project which is public for anyone to visit on a specific domain. Here again, for the emails of the accounts, you can use the subaddressing trick.
 
 You may encounter an error when creating the accounts, that is because you're logged in as the root account, or at least was for me, You will have to switch to the master account. The account that is created when setting up the control tower, it can be found in the root of your organization.
 
@@ -45,3 +55,9 @@ I went through this course: [AWS Cloud Practitioner Essentials](https://explore.
 I also shared my notes here: ...
 
 # Chunk 1
+
+This chunk was quite straight forward. I built a resume in HTML and CSS that was deployed on as a Static S3 Website. I then made sure the site uses `https` for security and had to use Amazon CloudFront.
+
+The last step was to point a custom DNS domain name to the CloudFront distribution, but I didn't do that part as I don't feel the need here to setup a custom domain name, which also includes buying a new one.
+
+# Chunk 2
