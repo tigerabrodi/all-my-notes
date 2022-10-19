@@ -10,7 +10,7 @@
 
 - avoid any type
 
-- prefer unknown over any
+- unknown over any
 
 - type narrowing
 
@@ -19,3 +19,9 @@
 - use Array for arrays
 
 - boolean variables
+
+- avoid function overloading
+
+- avoid intersection
+
+- infer
