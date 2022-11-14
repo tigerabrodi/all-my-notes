@@ -13,3 +13,4 @@
 - Do work that have more impact
 - Don't discuss for too long
 - Dig deeper into the problem before proposing
+- using a union instead of multiple boolean properties
