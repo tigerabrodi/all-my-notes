@@ -14,3 +14,6 @@
 - Don't discuss for too long
 - Dig deeper into the problem before proposing
 - using a union instead of multiple boolean properties
+- It's not your work
+- pull requests open for too long
+- pull requests merged without tests
