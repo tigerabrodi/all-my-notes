@@ -17,3 +17,5 @@
 - It's not your work
 - pull requests open for too long
 - pull requests merged without tests
+- don't use boolean states
+- stick to single-responsibility principle

@@ -1,11 +1,13 @@
-- Tube: A video sharing platform inspired by Youtube.
+- markdown note taking app, inspired by inkdrop
 
-- Overjoy: A chat app inspired by Whatsapp's web version.
+- micro blogging platform for self improvement ppl
 
-- Raikage: A markdown note-taking app inspired by Inkdrop.
+- social media for spotify users
 
-- Kamuy: A platform where you can ask developer-related questions, get help and help others, inspired by Stackoverflow.
+- journaling app, every monday you journal and compare it to last week
 
-- Lion: A collaborative Todo app.
+- Chattect, chat with someone but get charged per letter/word
 
-- Wolf: The Google Docs for Markdown. A real-time collaborative markdown note-taking apps.
+- keyboard typing game for children
+
+- mobile app, clicking game for children
