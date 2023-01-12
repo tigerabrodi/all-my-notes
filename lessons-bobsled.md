@@ -20,3 +20,6 @@
 - don't use boolean states
 - stick to single-responsibility principle
 - Ask before preaching
+- self-reflection means contemplation
+- make sure you answered the question
+- ask peers for feedback
