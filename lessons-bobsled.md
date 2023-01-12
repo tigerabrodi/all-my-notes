@@ -1,7 +1,7 @@
 - don't slack over the weekend
-- Don't always build new solutions
+- don't always build new solutions
 - be respectful in disagreements
-- Don't block PRs over minor things
+- don't block PRs over minor things
 - Ask your manager for feedback regularly
 - Make people feel heard
 - Ask questions in public slack channels
@@ -19,3 +19,4 @@
 - pull requests merged without tests
 - don't use boolean states
 - stick to single-responsibility principle
+- Ask before preaching
